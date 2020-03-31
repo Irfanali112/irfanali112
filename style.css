@@ -1,0 +1,29 @@
+h1{
+    color: red; 
+text-align: center;
+     background-image: url(./img/456.jpg); padding: 10px; 
+    animation-play-state: running;
+ }
+
+body{background-image:url(./img/963.jpg)}
+h2 {color: darkorange; text-align: center; font-size: xx-large;padding: 10px;background-color:aqua;}
+ h3{text-align: center; color: darkmagenta;font-size: x-large;background-color: khaki;}
+ p {font-family: cursive; font-style: italic; stroke-opacity: inherit; text-align: center; font-size: x-large;
+color: lightcoral;}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+div2{color: green; font-size:27px;
+     font-weight: bolder ;
+      text-shadow: 0 0 20px #ff005b; 
+      transform: translate(-50%,-50%);
+      margin-top: 17%;
+    text-indent: 750px;
+
+}
